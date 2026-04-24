@@ -24,9 +24,3 @@ HireSense AI is an AI-powered resume analysis system that evaluates resumes agai
 - SentenceTransformers
 - NumPy
 - OpenAI (optional)
-
-## ▶️ Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app/streamlit_app.py
